@@ -8,3 +8,7 @@ ipsum.
 A :i[lovely] language know as :abbr[HTML]{title="HyperText Markup Language"}.
 
 :::
+
+# Titre 1
+
+## titre 2
